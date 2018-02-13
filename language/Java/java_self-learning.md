@@ -1727,16 +1727,57 @@ e.length = 2
 
 ## 自我充电
 
-### Jar包下载
+### 配置
+
+#### Jar包下载并在intelliJ添加Jar包
 
 [java如何快速下载jar包](https://www.jianshu.com/p/83f89d24db46)
+[Intellij IDEA 添加jar包的三种方式](http://zyjustin9.iteye.com/blog/2172445)
 
-### 无main函数的class
+
+### 语言机制
+
+#### 无main函数的class
 
 [没有main函数时的Java程序的执行](http://blog.csdn.net/esonjohn/article/details/64444117)
 [在java中和main方法并列的方法为什么一定要加static? ](https://www.zhihu.com/question/34561787)
 
-### Java代码执行顺序
+#### Java代码执行顺序
 
 [想知道Java代码执行顺序么，Let's go](https://www.jianshu.com/p/55c86e6c5c60)
+
+
+### 数据结构
+
+#### HashMap和HashTable的区别
+
+[6 Difference Between HashMap And HashTable : Popular Interview Question In Java With Example](http://javahungry.blogspot.com/2014/03/hashmap-vs-hashtable-difference-with-example-java-interview-questions.html)
+[Differences between HashMap and Hashtable?](https://stackoverflow.com/questions/40471/differences-between-hashmap-and-hashtable)
+[Java 集合--Map、HashMap、HashTable、TreeMap](http://zzqrj.iteye.com/blog/841782)
+
+#### ArrayList vs. LinkedList vs. Vector
+
+[ArrayList vs. LinkedList vs. Vector](https://www.programcreek.com/2013/03/arraylist-vs-linkedlist-vs-vector/)
+
+#### Java中如何遍历Map对象的4种方法
+
+[Java中如何遍历Map对象的4种方法](http://blog.csdn.net/tjcyjd/article/details/11111401)
+
+#### 如何重置一个ArrayList--clear vs removeAll
+
+[如何重置一个ArrayList--clear vs removeAll](https://yemengying.com/2015/10/26/%E8%AF%91-%E5%A6%82%E4%BD%95%E9%87%8D%E7%BD%AE%E4%B8%80%E4%B8%AAArrayList-clear-vs-removeAll/)
+
+
+### 结构
+
+#### extends和implements的区别
+
+[浅谈java中extends与implements的区别](https://jeffjade.com/2015/05/11/2015-05-11-java-extends-implement/)
+
+
+### 算法
+
+#### 排序
+
+[掌握Java-Array/List排序](https://mushanshitiancai.github.io/2016/07/03/java/language/%E6%8E%8C%E6%8F%A1Java-Array-List%E6%8E%92%E5%BA%8F/)
 
